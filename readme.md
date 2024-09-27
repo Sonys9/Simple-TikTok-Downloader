@@ -1,3 +1,5 @@
+ITS UNWORKING IDK HOW TO DELETE THIS REPO
+
 How to use this script:
 
   1. install python 3.x
